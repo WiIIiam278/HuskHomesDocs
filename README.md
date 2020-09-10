@@ -14,22 +14,23 @@ A simple, hassle-free mySQL-based homes and player warps system. Supports homes 
 
 ## Setup
 From the [Setup page](https://github.com/WiIIiam278/HuskHomesDocs/wiki/Setup)
-### Single server setup
-1. Download HuskHomes.jar
+### Setting up for a single server
+1. Download HuskHomes.jar from the resource page.
 2. Place in your server's plugin folder. 
 3. Restart the server and navigate to `HuskHomes/config.yml`
-4. Fill in the configuration file with your SQL database details and change the options to suit your setup (see below)
+4. Fill in the configuration file with your SQL database details and change the options to suit your setup
 5. Restart the server and you should be good to go.
 
-### BungeeCord setup
-1. Download HuskHomes.jar
+### Setting up on Waterfall or Bungee
+> **⚠️ Warning**: Do NOT install HuskHomes on the proxy server! It is a **Spigot** (and by extension Paper) plugin.
+1. Download HuskHomes.jar from the resource page.
 2. Place the plugin in the plugin folders of **all** the servers you wish to run HuskHomes on.
 3. Restart all the servers you added HuskHomes.jar to. Then, turn them back off.
 4. For each server, navigate to `HuskHomes/config.yml` and change the following settings
-  * Fill in the SQL database details
-  * Change `bungee: false` to `bungee: true`
-  * Replace `server` in the `server_name: server` setting to be the name of that server on the bungee network (e.g if your server is called "lobby" put "lobby")
-  * Modify other settings as appropriate (see below)
+    1. Fill in the SQL database details
+    1. Change `bungee: false` to `bungee: true`
+    1. Replace `server` in the `server_name: server` setting to be the name of that server on the bungee network (e.g if your server is called "lobby" put "lobby")
+    1. Modify other settings as appropriate
   
 ## Wiki
 For more help and information, check the [HuskHomes Wiki](https://github.com/WiIIiam278/HuskHomesDocs/wiki)  
