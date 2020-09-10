@@ -1,5 +1,5 @@
 # HuskHomes
-A simple, hassle-free mySQL-based homes and player warps system. Supports homes across multiple servers through a Bungee network.
+HuskHomes is a simple, hassle-free mySQL-based homes, player warps and teleportation suite. Supports teleporting across multiple servers through a Bungee network.
 
 ## Features
 * Runs on a mySQL database with easy setup.
