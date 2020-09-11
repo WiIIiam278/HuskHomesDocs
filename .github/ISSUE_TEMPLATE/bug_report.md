@@ -19,5 +19,14 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**HuskHomes version**
+To get your version, type */huskhomes about* in-game:
+
+**Spigot/Paper version**
+Type /version to get this:
+
+**Plugins installed**
+Please list them below:
+
 **Additional context**
 Add any other context about the problem here.
