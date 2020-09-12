@@ -1,3 +1,4 @@
+![](https://www.spigotmc.org/attachments/banner-png.553176/)
 # HuskHomes
 HuskHomes is a simple, hassle-free mySQL-based homes, player warps and teleportation suite. Supports teleporting across multiple servers through a Bungee network.
 
