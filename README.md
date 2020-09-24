@@ -12,6 +12,7 @@ HuskHomes is a simple, hassle-free mySQL-based homes, player warps and teleporta
 * Randomly teleport into the wild with /rtp (can be enabled/disabled)
 * Customisable; customise messages (with custom color support) and change the configuration to suit your needs.
 * Full tab completion support across all commands.
+* Supports migration from EssentialsX (more in the future/on request if viable)
 
 ## Setup
 From the [Setup page](https://github.com/WiIIiam278/HuskHomesDocs/wiki/Setup)
@@ -32,6 +33,7 @@ From the [Setup page](https://github.com/WiIIiam278/HuskHomesDocs/wiki/Setup)
     1. Change `bungee: false` to `bungee: true`
     1. Replace `server` in the `server_name: server` setting to be the name of that server on the bungee network (e.g if your server is called "lobby" put "lobby")
     1. Modify other settings as appropriate
+5. Start the servers you installed HuskHomes on and you should be good to go.
   
 ## Wiki
 For more help and information, check the [HuskHomes Wiki](https://github.com/WiIIiam278/HuskHomesDocs/wiki)  
